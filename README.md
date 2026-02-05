@@ -13,7 +13,9 @@ Python, Librosa, Scikit-Learn, Pandas
 
 ## How to Run
 pip install -r requirements.txt
+
 python src/train_model.py
+
 python src/predict_and_sort.py
 
 ## Future Work
