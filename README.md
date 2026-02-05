@@ -1,4 +1,4 @@
-# Music Mood AI 🎵🤖
+# Music Mood AI
 
 AI system that classifies music mood and automatically organizes songs into folders while logging results to Excel.
 
@@ -17,6 +17,4 @@ python src/train_model.py
 python src/predict_and_sort.py
 
 ## Future Work
-- Wav2Vec2 Transformer Upgrade
-- Streamlit UI
-- Real-time Mic Input
+
